@@ -1,1 +1,2 @@
-Este es un archivo de prueba
+Este es un archivo de aprendizaje
+estoy aprendiendo a usar git a los 18... me hubiera gustado empezar antes :(
