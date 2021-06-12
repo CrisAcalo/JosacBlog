@@ -1,4 +1,4 @@
-Este es un archivo de aprendizaje
+Este es un archivo de prueba
 estoy aprendiendo a usar git a los 18... me hubiera gustado empezar antes :(
 
 Criss tiene el deseo de ser unn gran programador :3
