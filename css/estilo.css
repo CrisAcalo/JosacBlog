@@ -8,6 +8,11 @@ body {
     margin: 0;
 }
 
+.blog_container {
+    width: 664px;
+    margin: auto;
+}
+
 .cabecera {
     text-align: center;
     margin: 0;
