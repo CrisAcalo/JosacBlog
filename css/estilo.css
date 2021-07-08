@@ -9,7 +9,7 @@ body {
 }
 
 .blog_container {
-    width: 664px;
+    max-width: 664px;
     margin: auto;
 }
 
