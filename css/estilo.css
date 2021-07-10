@@ -1,10 +1,10 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 body {
-    background-color: #000;
+    background-color: rgb(255, 255, 255);
     margin: 0;
 }
 
@@ -14,22 +14,39 @@ body {
 }
 
 .cabecera {
-    text-align: center;
-    margin: 0;
     background: #0af;
     border-bottom-right-radius: 100px;
     border-bottom-left-radius: 100px;
-    box-shadow: 0px 5px 0px rgb(167, 212, 238);
+    border-bottom: 5px solid rgb(167, 212, 238);
+    box-shadow: 0px 2px 20px rgb(133, 133, 133);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.cabecera_letters {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 
 .cabecera h1 {
     font-family: 'Pacifico', cursive;
-    margin: 0;
+    margin: 0 0 0 10px;
     color: rgb(0, 0, 0);
+    font-size: 2.5em;
 }
 
-h3 {
-    margin: 5px;
+.cabecera h3 {
+    margin: 0;
+    color: #fff;
+}
+
+.cabecera img {
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
 }
 
 .intro_container {
@@ -47,7 +64,7 @@ h3 {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
@@ -57,6 +74,3 @@ h3 {
     font-weight: 900;
 }
 
-p {
-    color: rgb(255, 255, 255)
-}
