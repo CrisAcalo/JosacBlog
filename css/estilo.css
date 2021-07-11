@@ -118,6 +118,8 @@ p {
     align-items: center;
     border-top-left-radius: 70px;
     border-top-right-radius: 70px;
+    border-top: 5px solid rgb(167, 212, 238);
+    box-shadow: 0 -2px 20px rgb(133, 133, 133);
 }
 
 .footer p {
